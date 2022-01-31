@@ -1,1 +1,0 @@
-Creality Ender 3 Pi Cam Mount by Modmike on Thingiverse: https://www.thingiverse.com/thing:2886101

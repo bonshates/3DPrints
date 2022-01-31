@@ -1,1 +1,0 @@
-Industrial style handle by Ukuku on Thingiverse: https://www.thingiverse.com/thing:4919854
