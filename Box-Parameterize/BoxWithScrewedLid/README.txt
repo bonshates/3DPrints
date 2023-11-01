@@ -1,0 +1,1 @@
+Parametric electronics box - OpenSCAD by JB86 on Thingiverse: https://www.thingiverse.com/thing:3406724

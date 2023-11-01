@@ -1,0 +1,1 @@
+Google Home Mini Stand (Pedestal) by bobbynishi on Thingiverse: https://www.thingiverse.com/thing:4411858

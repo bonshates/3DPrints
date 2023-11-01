@@ -1,0 +1,1 @@
+Parametrizable Rugged Box (OpenSCAD) by dochni on Thingiverse: https://www.thingiverse.com/thing:4768000
