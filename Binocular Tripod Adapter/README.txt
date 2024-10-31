@@ -1,0 +1,1 @@
+Binocular Tripod Adapter by jbaThingiverse on Thingiverse: https://www.thingiverse.com/thing:6170489
