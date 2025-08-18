@@ -10,10 +10,10 @@
 
 /* [Basic Parameters] */
 // A list of the batteries to generate for ("AAA", "AA", "C", "D", and "9V")
-Battery_List = ["AA", "AA", "AA", "AA", "AAA", "AAA","D","9V"];
+Battery_List = ["AAA", "AAA", "AAA", "AA", "AA", "AA", "9V", "C", "D"];
 
 // The height of the holder
-Holder_Height = 245;
+Holder_Height = 250;
 
 // The diameter of the shafts of the screws used to secure the battery holder to the wall (0 for no screws)
 Screw_Shaft_Diameter = 5.01;
