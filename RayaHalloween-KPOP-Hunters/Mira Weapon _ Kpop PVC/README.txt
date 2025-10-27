@@ -1,0 +1,4 @@
+Mira Weapon / Kpop demon hunters by K1521 on Thingiverse: https://www.thingiverse.com/thing:7177707
+
+Summary:
+THIS IS MADE TO USE ½" PVC AS THE MAIN SHAFT FOR STRENGTH.  You can get this from any hardware store and cut to the right size for the person using it.I suggest that on your slicer you cut part of the shaft out as a test fit for ½" PVC pipe. All PVC should have the same outer diameter. If you have to scale the model to fit the PVC. Scale it at .02 increments. For me it is a snug fit and is not easy to get on the pipe.I used a blue purple PETG for the blade. Print blade flat with normal supports, not tree. https://amzn.to/3L1kB7d Gold / Bronze PETG for the other parts. https://amzn.to/42OtxD7 The upper handle holds a battery pack for fairy lights. These have 8 different light patterns. https://amzn.to/3Lm3BbS a medium CA glue so it is not too runny. https://amzn.to/4hkdGlH I hope you enjoy this as much as I did making it. Have fun.
