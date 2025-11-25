@@ -1,1 +1,0 @@
-Raspberry Pi 4 case with 4010 Fan by nhjoshi on Thingiverse: https://www.thingiverse.com/thing:5251780
