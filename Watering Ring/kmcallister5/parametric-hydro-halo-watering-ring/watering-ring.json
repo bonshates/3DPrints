@@ -1,0 +1,20 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fa": "6",
+            "$fs": "0.25",
+            "bumper_height": "0.59999999999999998",
+            "bumper_width": "1",
+            "channel_width": "8",
+            "end_holes": "true",
+            "halo_angle": "300",
+            "halo_id": "140",
+            "hole_id": "1.5",
+            "num_holes": "10",
+            "stem_id": "4.5",
+            "stem_length": "8",
+            "thickness": "1"
+        }
+    }
+}
