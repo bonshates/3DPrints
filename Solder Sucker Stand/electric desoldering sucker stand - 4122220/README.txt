@@ -1,0 +1,4 @@
+electric desoldering sucker stand by SimonVu14 on Thingiverse: https://www.thingiverse.com/thing:4122220
+
+Summary:
+Just a simple stand for chinese electric desoldering sucker.This cheap desoldering tool goes by the name Electric Vacuum Solder Sucker.It is cheaply built but surprisingly works quite well. The only problem is it doesn't come with any sort of stand. It is quite round and you don't want this thing rolling around while still hot.So a stand for it is must.Any print setting would work, even 100% hollow probably still work.The hole in the center is to improve the over-hang printing if you print with very low in-fill percent.
